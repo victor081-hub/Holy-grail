@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.nav-container{
+    background-color: blue;
+    /* /* display: flex; */
+    /* justify-content: space-between; */ */
+    border: 10px solid #fff;
+    height: 80px;
+    align-items: center;
+    text-align: center;
+}
+.victor{
+    background-color: blueviolet;
+    display: flex;
+}
+.Atasie{
+    background-color: brown;
+}

@@ -1,0 +1,28 @@
+/* body{
+    width: 300px;
+    border-radius: 300px; */
+}
+/* .top{
+    background-color: rgb(250, 246, 246);
+    position: absolute;
+    border-radius: 300px;
+    align-items: center; */
+}
+.img{
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    width: 500px;
+    height: 400px;
+}
+/* .buttom{
+    display: flex;
+    border-radius: 600px;
+} */
+.photo{
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    width: 500px;
+    height: 400px;
+}
